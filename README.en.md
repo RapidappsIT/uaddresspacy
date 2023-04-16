@@ -1,5 +1,5 @@
 ![header](doc/header.png)
-# Описание
+# Description
 [![PyPI version](https://badge.fury.io/py/uaddresspacy.svg)](https://badge.fury.io/py/uaddresspacy)
 
 Parsing Ukrainian addresses into types
@@ -78,7 +78,7 @@ python3 pretrain.py
 | training/raw.csv          | Data for training                             |
 | training/pretrain.csv     | Data to train model                           |
 
-## Типы
+## Types
 | Name                      | Description                                   |
 | :-------------            | :-------------                                |
 | Country                   | Country                                       |
